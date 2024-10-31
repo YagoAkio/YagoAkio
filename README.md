@@ -1,7 +1,4 @@
-<div align="center">
-  <h1 style="color: red">👋 HELLO WORLD! 👋</h1>
-  <h3 style="color: red">I'm Yago</h3>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WOLRD;+My+name+is+Yago+Akio;I'm+20+years+old:%29)](https://git.io/typing-svg)
 
 
 
@@ -25,4 +22,6 @@ Here are some ideas to get you started:
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YagoAkio&bg_color=0d1117&color=FF0000&line=ffa726&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
