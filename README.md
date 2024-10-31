@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YagoAkio&show_icons=true&count_private=true&hide_border=true&title_color=1FDE15&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Yago Akio Fonseca Rumin github stats"/>
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YagoAkio&show_icons=true&count_private=true&hide_border=true&title_color=RED&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Yago Akio Fonseca Rumin github stats"/>
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoAkio&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
 </div>
 
