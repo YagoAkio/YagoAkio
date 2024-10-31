@@ -1,6 +1,7 @@
 <div align="center">
-  <h1 style = "text-color: red;">👋 HELLO WORLD 👋</h1>
+  <h1 style="color: red;">HELLO WORLD </h1>
 </div>
+
 
 
 <!--
